@@ -1,1 +1,15 @@
-.vs
+# User-specific files
+*.user
+*.vcxproj.user
+
+# Build artifacts
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+*.exe
+*.obj
+*.pdb
+
+# Visual Studio cache/temp files
+.vs/
