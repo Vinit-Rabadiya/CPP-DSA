@@ -1,15 +1,29 @@
-# User-specific files
+# === Visual Studio Project Files to IGNORE ===
 *.user
 *.vcxproj.user
+*.suo
+*.vcbks
+*.vctw
 
-# Build artifacts
+# === Build Output & Artifacts (Covers all subfolders) ===
 [Dd]ebug/
 [Rr]elease/
 x64/
 x86/
+[Aa]rm64/
+bin/
+obj/
+
+# Common compiled extensions
 *.exe
+*.dll
+*.lib
 *.obj
 *.pdb
+*.ilk
+*.exp
 
-# Visual Studio cache/temp files
+# === VS IntelliSense & Cache ===
 .vs/
+*.VC.db
+*.VC.opendb
