@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="B2_sphereVolume/B2_sphereVolume.vcxproj" />
+  <Project Path="Qb1.vcxproj" />
 </Solution>

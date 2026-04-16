@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="B1_NumberOfSeconds.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="B2_sphereVolume.cpp">
+    <ClCompile Include="NumberOfSeconds.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
